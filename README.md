@@ -1,5 +1,5 @@
 <h1> Hello! </h1>
-My name is <b>Taylor</b>. Heres what I do on github and in my own time:)!
+My name is <b>Sophia</b>. Heres what I do on github and in my own time:)!
 
 <h2> My Statistics </h2>
 
