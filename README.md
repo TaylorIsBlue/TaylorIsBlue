@@ -1,9 +1,12 @@
 <h1> Hello! </h1>
-My name is <b>Sophia</b>, I also go by Taylor. I am a self-taught entry-level software engineer. I have been learning all these languages since I was 12. (JS/TS, Java, C#)
-I worked on Websites like frontend/backend, and have worked on AI programs such as Aimmy. Aimmy is a Universal Second Eye for Gamers with Impairments, it uses AI to find objects and help the user aim towards it.
-I have worked on Vue, React, etc and have learned lots. I have also enjoyed working with Pytorch and ONNXRuntime.
 
-I am open to trying new things and other opportunities for learning, please feel free to contact me at: taylor@hrzn.email
+My name is <b>Sophia</b>, I also go by Taylor. I am a self-taught entry-level software engineer. I have been learning all these languages since I was 12. (JS/TS, Java, C#)
+
+I worked on Websites like frontend/backend, and have worked on AI programs such as **Aimmy**. Aimmy is a Universal Second Eye for Gamers with Impairments, it uses AI to find objects and help the user aim towards it.
+
+I have worked on Vue, React, etc and have learned _lots_. I have also enjoyed working with Pytorch and ONNXRuntime.
+
+I am open to trying new things and any opportunities for learning, please feel free to contact me at: taylor@hrzn.email
 
 Heres what I do on github and in my own time:)!
 
