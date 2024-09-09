@@ -1,5 +1,5 @@
 <h1> Hello! </h1>
-My name is <b>Sophia</b>. Heres what I do on github and in my own time:)!
+My name is <b>Sophia</b>, I also go by Taylor. Heres what I do on github and in my own time:)!
 
 <h2> My Statistics </h2>
 
@@ -34,8 +34,5 @@ My name is <b>Sophia</b>. Heres what I do on github and in my own time:)!
 <h2> Contacts / Social Media! <h2>
 
 <p>
-  <b> Please feel free to contact me on Discord! </b> <br>
+  <b> Please feel free to contact me on Discord! (Befia) </b> <br>
 </p>
-
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/taylorisblue) 
-[<img alt="Discord" src="https://img.shields.io/badge/Discord-7289da.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://lookup.guru/699681088301301841)
