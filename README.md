@@ -37,8 +37,8 @@ Heres what I do on github and in my own time:)!
 [<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />](https://github.com/TaylorIsBlue)
 [<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />](https://github.com/TaylorIsBlue)
 
-<h2> Contacts / Social Media! <h2>
+<h2> Contacts / Social Media! </h2>
 
 <p>
-  <b> Please feel free to contact me on Discord! (Befia) </b> <br>
+  <b> Please feel free to contact me on Discord! (Befia) </b> 
 </p>
